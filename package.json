@@ -1,0 +1,24 @@
+{
+  "name": "ra01",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diarcilaju/ra1-tpa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diarcilaju/ra1-tpa/issues"
+  },
+  "homepage": "https://github.com/diarcilaju/ra1-tpa#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
